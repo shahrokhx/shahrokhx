@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Shahrokh (/ʃɑ:hroʊk/), but usually go by "shah" and "Sean".
+I do love writing codes and have the experience of developing softwares in almost any programming language most people are aware of, such as C++, Python, Java, MATLAB, JS, Julia, and a bunch of others that most people never heard of, including Fortran, Perl, Prolog, and even Assembly (Yeah! I know!😅 but it was not rare back in the day when QBasic and Pascal were still taught in schools)
+
+For a long time in my life, I've been using many different version control platform such as Github, GitLab, and BitBucket, and had various personal and enterprise accounts. But finally decided to stick with the sweet GitHub and move everything here!
+
 <!--
 **shahrokhx/shahrokhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

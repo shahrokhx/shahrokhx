@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Shah ♔
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shahrokhx-visitor-badge&left_color=green&right_color=red)
+
 #### $ WhoAmI?
 I'm Shahrokh (/ʃɑ:hroʊk/), but usually go by "shah" and "Sean" 😉
 

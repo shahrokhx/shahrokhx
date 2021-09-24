@@ -14,7 +14,10 @@ Aside from research, I have loved writing codes for entire of my life and had th
 <p align="justify">
 For a long time in my life, I've been using many different version control platforms including Github, GitLab, and BitBucket, and had various personal and enterprise accounts. But finally decided to stick with the sweet GitHub and migrate everything to here!
 </p>
-  
+
+<p align="justify">
+I have also started to organize my codes and release them. More information is available in my <a href="https://www.sshahi.com/" target="_blank">personal website</a>, where the <a href="https://www.sshahi.com/projects/" target="_blank">project</a> section demonstrates a growing collection of the projects I've ever worked on. Moreover, the <a href="https://www.sshahi.com/downloads/" target="_blank">Download</a> and <a href="https://www.sshahi.com/teaching/" target="_blank">Teaching</a> sections provide descriptions and links to the source codes of the packages and toolboxes that I've ever developed. 
+</p>
   
 <!--
 **shahrokhx/shahrokhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

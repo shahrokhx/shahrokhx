@@ -11,7 +11,7 @@
 I'm Shahrokh (/ʃɑ:hroʊk/), but usually go by "shah" and "Sean" 😉
 
 <p align="justify">
-Currently, I’m a PhD candidate in <a href="https://www.cse.gatech.edu/people/shahrokh-shahi" target="_blank">Computer Science/Computational Science and Engineering (CSE)</a> in the College of Computing at Georgia Institute of Technology. Prior to starting my PhD, I did two master’s degrees; one in Computer Science from <a href="http://www.imperial.ac.uk/computing/" target="_blank">Imperial College London</a> and another in Structural Engineering from University of Tehran. My PhD research is mainly focused on developing Deep Learning algorithms, Reservoir Computing techniques, and data-driven approaches to build reliable predictive models for complex time series forecasting.
+Currently, I’m a PhD candidate in <a href="https://www.cse.gatech.edu/people/shahrokh-shahi" target="_blank">Computer Science/Computational Science and Engineering (CSE)</a> in the College of Computing at Georgia Institute of Technology. Prior to starting my PhD, I did two master’s degrees; one in Computer Science at <a href="http://www.imperial.ac.uk/computing/" target="_blank">Imperial College London</a> and another in Structural Engineering at University of Tehran. My PhD research is mainly focused on developing Deep Learning algorithms, Reservoir Computing techniques, and data-driven approaches to build reliable predictive models for complex time series forecasting.
 </p>	
 
 <p align="justify">

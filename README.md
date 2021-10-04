@@ -10,7 +10,7 @@
 
 🔜 | More codes and documentations will be shared here soon.
 
-🔗 | This account also hosts the shared packages on my <a href="https://www.sshahi.com/" target="_blank">online portfolio</a> and the source codes that I developed and shared on MathWorks File Exchange [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/profile/authors/12896746) and Python Package Index (PyPI).
+🔗 | This account also hosts the shared packages on my <a href="https://www.sshahi.com/" target="_blank">online portfolio🧑🏼‍💻 </a> and the source codes that I developed and shared on MathWorks File Exchange [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/profile/authors/12896746) and Python Package Index (PyPI 🐍) 
 <!--  https://pypi.org/user/shahrokh/ -->
 
 

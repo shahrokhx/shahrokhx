@@ -40,6 +40,23 @@ I have also started to organize my codes and release them. More information is a
 
 ----
 
+#### $ Skills and tech preferences
+
+|💡|                           |                                                           |
+|--|---------------------------|-----------------------------------------------------------|
+|💻| **Operating System**      | macOS, Ubuntu                                             |
+|⌨️| **Editor**                | Sublime Text,  Vim                                        |
+|⚙️| **Programming Languages** | Python, Java, MATLAB, C++, Perl, Julia, Fortran           |
+|👨🏻‍💻| **Web Development**       | HTML, CSS, JavaScript, Flask, jQuery, Ajax                |
+|🦾| **Machine Learning**      | TensorFlow, Keras, Scikit-Learn, D3.js, PyTorch, DL4J     |
+|☁️| **Cloud**                 | AWS, Azure ML Studio                                      |
+
+📫 How to reach me: 
+* twitter: [@shahi_shahrokh](https://twitter.com/shahi_shahrokh) 
+* fb: [@shahi.shahrokh](https://www.facebook.com/Shahi.Shahrokh/)
+
+----
+
 <!--
 **shahrokhx/shahrokhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

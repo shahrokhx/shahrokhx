@@ -61,9 +61,9 @@ I have also started to organize my codes and release them. More information is a
 ----
 
 🎓 Education:
-🇺🇸 Georgia Institute of Technology
-🇬🇧 Imperial College London
-🇮🇷 University of Tehran
+- 🇺🇸 Georgia Institute of Technology
+- 🇬🇧 Imperial College London
+- 🇮🇷 University of Tehran
 
 ----
 

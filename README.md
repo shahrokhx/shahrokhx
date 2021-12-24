@@ -60,6 +60,13 @@ I have also started to organize my codes and release them. More information is a
 
 ----
 
+🎓 Education:
+🇺🇸 Georgia Institute of Technology
+🇬🇧 Imperial College London
+🇮🇷 University of Tehran
+
+----
+
 <!--
 **shahrokhx/shahrokhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

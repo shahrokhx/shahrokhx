@@ -59,12 +59,12 @@ I have also started to organize my codes and release them. More information is a
 * fb: [@shahi.shahrokh](https://www.facebook.com/Shahi.Shahrokh/)
 
 ----
-
+<!-- 
 🎓 Education:
 - 🇺🇸 Georgia Institute of Technology 
 - 🇬🇧 Imperial College London 
 - 🇮🇷 University of Tehran
-
+ -->
 ----
 
 <!--

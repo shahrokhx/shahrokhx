@@ -58,7 +58,7 @@ I have also started to organize my codes and release them. More information is a
 
 |💡|                           |                                                           |
 |--|---------------------------|-----------------------------------------------------------|
-|💻| **Operating System**      | [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg), Ubuntu                                             |
+|💻| **Operating System**      | [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg), [Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)                                             |
 |⌨️| **Editor**                | Sublime Text,  Vim                                        |
 |⚙️| **Programming Languages** | Python, Java, MATLAB, C++, Perl, Julia, Fortran           |
 |👨🏻‍💻| **Web Development**       | HTML, CSS, JavaScript, Flask, jQuery, Ajax                |

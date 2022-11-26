@@ -55,16 +55,16 @@ I have also started to organize my codes and release them. More information is a
 |☁️| **Cloud**                 | AWS, Azure ML Studio                                      |
 
 ----
-
-|💡|                           |                                                           |
-|--|---------------------------|-----------------------------------------------------------|
-|💻| **Operating System**      | [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg), [Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)                                             |
-|⌨️| **Editor**                | Sublime Text,  Vim                                        |
+<!-- 
+|💡|                           |                                                           |  |
+|--|---------------------------|-----------------------------------------------------------|--|
+|💻| **Operating System**      | macOS, Ubuntu                                             | [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)|
+|⌨️| **Editor**                | Sublime Text,  Vim                                        | [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)|
 |⚙️| **Programming Languages** | Python, Java, MATLAB, C++, Perl, Julia, Fortran           |
 |👨🏻‍💻| **Web Development**       | HTML, CSS, JavaScript, Flask, jQuery, Ajax                |
 |🦾| **Machine Learning**      | TensorFlow, Keras, Scikit-Learn, D3.js, PyTorch, DL4J     |
 |☁️| **Cloud**                 | AWS, Azure ML Studio                                      |
-
+ -->
 ----
 
 📫 How to reach me: 

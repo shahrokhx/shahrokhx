@@ -3,9 +3,10 @@
 ### Hi there 👋 I'm Shah (He/Him)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shahrokhx-visitor-badge&left_color=green&right_color=red) -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shahrokhx-visitor-badge)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shahrokhx-visitor-badge) -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shahrokh-shahi-visitor-badge&left_color=#14213d&right_color=#66ccff)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shahrokh-shahi-visitor-badge&left_color=#14213d&right_color=#66ccff) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shahrokh-shahi-visitor-badge&left_color=red&right_color=#66ccff)
 
 #### TL;DR:
 🗓 | As of **```September 2021```**, I will only be using this GitHub account and all other codes that I maintained on other version control systems (e.g., GitHub Enterprise, GitLab, BitBucket) will be gradually trasferred (or simply copy!) to this account 👨🏻‍💻 🧳 😌

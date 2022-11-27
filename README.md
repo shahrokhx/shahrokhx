@@ -1,17 +1,32 @@
 ****
  
 <!-- ### Hi there 👋 I'm Shah (He/Him) -->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shahrokhx-visitor-badge&left_color=green&right_color=red) -->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shahrokhx-visitor-badge) -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shahrokh-shahi-visitor-badge&left_color=#14213d&right_color=#66ccff) -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shahrokh-shahi-visitor-badge&left_color=grey&right_color=red) -->
-<!-- 
-<h3>Hi there 👋 I'm Shah (He/Him) <span style="float:right;"><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=shahrokh-shahi-visitor-badge" alt="visitor badge"/></span>
-</h3>
--->
 
-<h3>Hi there 👋 I'm Shah (He/Him) <span style="float:right;"><img align="right" src="https://visitor-badge.glitch.me/badge?page_id=shahrokh-shahi-visitor-badge&left_color=grey&right_color=blue" alt="visitor badge"/></span>
+<h3>Hi there 👋 I'm Shah (He/Him) 
+<span style="float:right;">
+
+  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=shahrokh-shahi-visitor-badge&left_color=grey&right_color=yellowgreen" alt="visitor badge"/>
+ 
+  <a href="http://linkedin.com/in/shahi-shahrokh" target="_blank">
+  <img align="right" src="https://img.shields.io/badge/-linkedin-0073B1?style=flat" alt="linkedin"/>
+  </a>
+  
+  <!--    
+  <a href="https://twitter.com/shahi_shahrokh" target="_blank">
+  <img align="right" src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat" alt="twitter"/>
+  </a>
+  -->
+ 
+  <a href="https://twitter.com/shahi_shahrokh" target="_blank">
+  <!--   <img align="right" src="https://img.shields.io/badge/-twitter-1C9CEA?style=social&logo=twitter" alt="twitter"/> -->
+  <img align="right" src="https://img.shields.io/twitter/follow/shahi_shahrokh?label=Twitter&style=social" alt="twitter"/>
+  </a>
+</span> 
 </h3>
+
+
 
 
 #### TL;DR:

@@ -7,12 +7,18 @@
 <h3>Hi there 👋 I'm Shah (He/Him) 
 <span style="float:right;">
 
-  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=shahrokh-shahi-visitor-badge&left_color=grey&right_color=yellowgreen" alt="visitor badge"/>
- 
+  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=shahrokh-shahi-visitor-badge&left_color=grey&right_color=red" alt="visitor badge"/>
+  
+  <!--    
   <a href="http://linkedin.com/in/shahi-shahrokh" target="_blank">
   <img align="right" src="https://img.shields.io/badge/-linkedin-0073B1?style=flat" alt="linkedin"/>
   </a>
+  -->
   
+  <a href="http://linkedin.com/in/shahi-shahrokh" target="_blank">
+ 	<img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+ 
   <!--    
   <a href="https://twitter.com/shahi_shahrokh" target="_blank">
   <img align="right" src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat" alt="twitter"/>
@@ -26,7 +32,7 @@
 </span> 
 </h3>
 
-
+ 
 
 
 #### TL;DR:

@@ -9,6 +9,14 @@
 
   <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=shahrokh-shahi-visitor-badge&left_color=grey&right_color=red" alt="visitor badge"/>
   
+  <a href="http://www.cs3510.com/" target="_blank">
+  <img align="right" height="25" src="https://www.sshahi.com/assets/img/cs3510.png"/>
+  </a> 
+ 
+  <a href="https://www.facebook.com/Shahi.Shahrokh/" target="_blank">
+ 	<img align="right" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="facebook"/>
+  </a>
+ 
   <!--    
   <a href="http://linkedin.com/in/shahi-shahrokh" target="_blank">
   <img align="right" src="https://img.shields.io/badge/-linkedin-0073B1?style=flat" alt="linkedin"/>
